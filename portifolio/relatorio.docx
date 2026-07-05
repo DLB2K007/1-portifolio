@@ -1,0 +1,39 @@
+1. Introdução
+
+Este projeto tem como objetivo o desenvolvimento de um website de portfólio pessoal utilizando as tecnologias HTML5, CSS3 e JavaScript, aplicando conceitos estudados na disciplina de Programação Front-End.
+
+2. Objetivo
+
+Criar um site responsivo e funcional que apresente informações pessoais, projetos desenvolvidos e um meio de contato, aplicando boas práticas de desenvolvimento web.
+
+3. Tecnologias utilizadas
+HTML5: estruturação do conteúdo
+CSS3: estilização e responsividade
+JavaScript: interatividade e validação de formulários
+Google Fonts: tipografia moderna
+4. Estrutura do site
+
+O site foi dividido em quatro páginas principais:
+
+Home (index.html): apresentação inicial
+Sobre (sobre.html): informações pessoais e habilidades
+Projetos (projetos.html): portfólio de trabalhos
+Contato (contato.html): formulário de envio de mensagem
+5. Funcionalidades implementadas
+Layout responsivo para diferentes dispositivos
+Menu de navegação funcional com versão mobile
+Efeitos de interação com JavaScript
+Validação de formulário de contato
+Botão de retorno ao topo
+Animações simples para melhoria de UX
+6. SEO básico
+
+O projeto inclui meta tags como descrição, palavras-chave e autor, além de estrutura semântica adequada para melhor indexação em mecanismos de busca.
+
+7. Desafios encontrados
+
+O principal desafio foi a implementação da responsividade e da validação do formulário utilizando JavaScript puro.
+
+8. Conclusão
+
+O projeto permitiu a aplicação prática dos conceitos de desenvolvimento front-end, resultando em um site funcional, responsivo e organizado, atendendo aos requisitos propostos pela disciplina.
