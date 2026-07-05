@@ -69,7 +69,7 @@ O site se adapta a diferentes tamanhos de tela utilizando Media Queries.
 
 ## 👨‍💻 Autor
 
-Dani  
+Daniel
 Estudante de Engenharia de Software
 
 ---
